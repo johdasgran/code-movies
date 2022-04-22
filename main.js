@@ -10,3 +10,16 @@ for (let i = 0; i < 25; i++) {
     })
 }
 
+/*** */
+
+const square = document.getElementById("dropzone");
+
+
+square.addEventListener("drop", ()=> {
+    console-log("sdasdas")
+});
+
+
+square.ondrop(() => {
+    console.log("asdas")
+})
