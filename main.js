@@ -23,13 +23,6 @@ square.ondrop(() => {
 
 
 
-
-
-
-
-
-
-
 // square.addEventListener("drop", (event)=> {
 //     event.preventDefault();
 //     console-log("sdasdas")
